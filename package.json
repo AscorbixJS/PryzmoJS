@@ -1,0 +1,20 @@
+{
+  "name": "pryzmojs",
+  "version": "1.0.0",
+  "description": "Front-end SPA framework with jQuery, ui-router and AngularJS",
+  "main": "pryzmo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": [
+  	{
+      "name": "Kevin Aguilar",
+      "email": "kaguilara@ucenfotec.ac.cr"
+  	},
+  	  	{
+      "name": "Olman Santamaria",
+      "email": "osantamariaa@ucenfotec.ac.cr"
+  	}
+  ],
+  "license": "ISC"
+}
